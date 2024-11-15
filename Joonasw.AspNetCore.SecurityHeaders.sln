@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C93B021C-E01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Joonasw.AspNetCore.SecurityHeaders.Samples", "test\Joonasw.AspNetCore.SecurityHeaders.Samples\Joonasw.AspNetCore.SecurityHeaders.Samples.csproj", "{8FF34C33-8DF3-41D6-9A4A-C461C201B389}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Joonasw.AspNetCore.SecurityHeaders", "src\Joonasw.AspNetCore.SecurityHeaders\Joonasw.AspNetCore.SecurityHeaders.csproj", "{E3185634-6192-4C1D-8BB1-65DE700901BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Joonasw.AspNetCore.SecurityHeaders9", "src\Joonasw.AspNetCore.SecurityHeaders\Joonasw.AspNetCore.SecurityHeaders9.csproj", "{E3185634-6192-4C1D-8BB1-65DE700901BB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{568F7557-6509-4F00-BD44-3CB7804D87FC}"
 EndProject

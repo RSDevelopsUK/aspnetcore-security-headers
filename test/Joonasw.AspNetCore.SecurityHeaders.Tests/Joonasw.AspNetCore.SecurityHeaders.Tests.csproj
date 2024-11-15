@@ -12,6 +12,6 @@
         </PackageReference>
     </ItemGroup>
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Joonasw.AspNetCore.SecurityHeaders\Joonasw.AspNetCore.SecurityHeaders.csproj" />
+        <ProjectReference Include="..\..\src\Joonasw.AspNetCore.SecurityHeaders\Joonasw.AspNetCore.SecurityHeaders9.csproj" />
     </ItemGroup>
 </Project>

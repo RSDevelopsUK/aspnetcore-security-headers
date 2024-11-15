@@ -2,7 +2,7 @@
     <PropertyGroup>
         <TargetFrameworks>net9.0</TargetFrameworks>
         <Version>9.0.0</Version>
-        <Title>Joonasw.AspNetCore.SecurityHeaders</Title>
+        <Title>Joonasw.AspNetCore.SecurityHeaders9</Title>
         <Authors>Joonas Westlin, Rob Shaw</Authors>
         <Description>Middleware for adding security headers to an ASP.NET Core application. Allows you to easily add Content Security Policy, Strict Transport Security, and Public Key Pins to an app.</Description>
         <Copyright>Copyright 2023 Joonas Westlin</Copyright>
@@ -19,7 +19,7 @@
         <IncludeSymbols>true</IncludeSymbols>
         <SymbolPackageFormat>snupkg</SymbolPackageFormat>
         <!-- /Source Link support-->
-        <PackageId>aspnetcore-security-headers</PackageId>
+        <PackageId>aspnetcore-security-headers-9</PackageId>
         <EnablePackageValidation>true</EnablePackageValidation>
     </PropertyGroup>
     <ItemGroup>

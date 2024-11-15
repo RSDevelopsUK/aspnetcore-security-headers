@@ -4,7 +4,7 @@
     <UserSecretsId>33ce3d09-4099-4a8e-93af-049b12b6eb90</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Joonasw.AspNetCore.SecurityHeaders\Joonasw.AspNetCore.SecurityHeaders.csproj" />
+    <ProjectReference Include="..\..\src\Joonasw.AspNetCore.SecurityHeaders\Joonasw.AspNetCore.SecurityHeaders9.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\PublishProfiles\" />
