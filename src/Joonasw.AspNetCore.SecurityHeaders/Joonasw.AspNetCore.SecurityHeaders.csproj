@@ -21,6 +21,7 @@
         <SymbolPackageFormat>snupkg</SymbolPackageFormat>
         <!-- /Source Link support-->
         <PackageId>aspnetcore-security-headers</PackageId>
+        <EnablePackageValidation>true</EnablePackageValidation>
     </PropertyGroup>
     <ItemGroup>
         <None Include="..\..\LICENSE.txt" Pack="true" PackagePath="LICENSE.txt"/>
